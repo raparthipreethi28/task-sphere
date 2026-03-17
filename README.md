@@ -45,3 +45,6 @@ CSS / Tailwind (if used)
 # Note
 
 This project focuses only on the frontend implementation. Backend integration and data persistence can be added in future versions.
+
+
+ https://github.com/raparthipreethi28/task-sphere/blob/77c0c25bbe1ef08df924edee5e2ddaef66b71a43/1000071341.jpg
